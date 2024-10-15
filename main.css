@@ -1,0 +1,205 @@
+.tema {
+
+    padding: 10px;
+    text-align: center;
+    background-color: greenyellow;
+}
+
+
+
+
+
+
+.contenedor{
+  word-spacing: 15px;
+    margin: 0% 15px;
+}
+
+.letra{
+    font-family: monospace;
+    height:250vh ;
+}
+.im{
+    width: 25px;
+}
+.casa{
+    width: 25px; 
+}
+.in{
+    width: 25px; 
+}
+.ig{
+    width: 25px; 
+}  
+
+.ie{
+    width: 30px;   
+}
+.imagen{
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 greenyellow, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    float: left;
+    width: 330px;
+    
+}
+.img2{
+    width: 330px;
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 greenyellow, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    float: left;
+}
+
+
+.img3{
+    width:330px;
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 greenyellow, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     float:left;
+    
+}
+.img4{
+    width: 330px;
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 greenyellow, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     float:left;
+    
+}
+.img5{
+    width: 330px;
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 greenyellow, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     float:left;
+    
+}
+
+.img11{
+    width: 330px;
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 greenyellow, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     float:left;
+    }
+     
+
+
+
+
+.img7{
+    width: 260px;
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 greenyellow, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     float:left;
+}
+.img6{
+    width: 290px;
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 greenyellow, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     float:left;
+}
+
+.img8{
+    width: 210px;
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 greenyellow, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     float:left;
+}
+.img9{
+    width: 250px;
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 greenyellow, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     float:left;
+}
+
+.img10{
+    width: 300px;
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 greenyellow, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     float:left;
+}
+
+.img16{
+    width: 310px;
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 greenyellow, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     float:left;
+}
+.img17{
+    width:330px;
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 greenyellow, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     float:left;
+}
+
+
+
+
+.img12{
+    width: 230px;
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 greenyellow, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     float:left;
+}
+.img13{
+    width: 160px;
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 greenyellow, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     float:left;
+}
+.img14{
+    width: 220px;
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 greenyellow, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     float:left;
+}
+.img15{
+    width: 210px;
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 greenyellow, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     float:left;
+}
+.img18{
+    width: 230px;
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 greenyellow, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     float:left;
+}
+.img19{
+    width: 200px;
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 greenyellow, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     float:left;
+}
+.img21{
+    width: 230px;
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 greenyellow, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     float:left;
+}
+.img20{
+    width: 230px;
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 greenyellow, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     float:left;
+}
+
+
+
+
+
+
+
+
+.phone{
+    width: 200px;
+}
+.order{
+    background-color: greenyellow;
+    display: flexbox;
+}
+.star{
+    width: 100px; 
+    display: flexbox;  
+}
+
+.lista{
+    display: none;
+}
